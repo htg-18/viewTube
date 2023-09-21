@@ -1,3 +1,6 @@
+#Live Link of the Website
+https://view-tube-1234.netlify.app/
+
 #site demo
 
 https://github.com/htg-18/viewTube/assets/115134783/0542ab73-3a13-4b98-9328-099dc55c7940
